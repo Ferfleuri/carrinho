@@ -6,7 +6,7 @@ import abobora from '../../assets/frutas/Abóbora.png';
 
 const carrinho = {
     topo: {
-        titulo: "Detalhessssssssssssssssssss do Carrinho",
+        titulo: "Detalhes do Carrinho",
     },
     detalhes: {
         nome: "Carrinho de Compras",
